@@ -20,7 +20,7 @@
 
 ### 💼 Projects & Experience
 - 🥇 **1st Prize** – Omexom H2-Power Innovation: *Hydrogen replacing diesel generators*
-- 🧠 Featured Project: [Smart AI Agent Workflows](https://github.com/rithikrathii/AI-Automation-With-Smart-Workflows-)
+- 🧠 Cuurent Project: [Smart AI Agent Workflows](https://github.com/rithikrathii/AI-Automation-With-Smart-Workflows-)
 - 👨‍💻 Portfolio: [github.com/rithikrathii](https://github.com/rithikrathii)
 
 ---
