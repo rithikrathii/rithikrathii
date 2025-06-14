@@ -36,9 +36,10 @@
 > I treat messy data like a puzzle — the most fun part is watching an AI Agent solve it with elegance.
 
 ---
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions...;Building+smart+AI+agents+with+n8n+%2B+LangChain...;Automating+insights+with+Power+BI+%26+Python...;Welcome+to+my+AI+World!+🤖" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Turning+data+into+decisions...;Building+smart+AI+agents+with+n8n+%2B+LangChain...;Automating+insights+with+Power+BI+%26+Python...;Welcome+to+my+AI+World!+🤖" alt="Typing SVG">
 </p>
 
 <p align="center">
