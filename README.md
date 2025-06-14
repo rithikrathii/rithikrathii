@@ -27,7 +27,7 @@
 
 ### 🤝 Let's Connect
 - 📧 Email: **rithikrathi416@gmail.com**
-- 💼 LinkedIn: [Rithik Kumar](https://linkedin.com/in/rithik12)
+- 💼 LinkedIn: [Rithik Kumar](https://www.linkedin.com/in/rithik12/)
 - 📄 Resume: *(Add your link here)*
 
 ---
