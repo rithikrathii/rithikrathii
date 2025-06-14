@@ -24,11 +24,11 @@
 - 👨‍💻 Portfolio: [github.com/rithikrathii](https://github.com/rithikrathii)
 
 ---
-
 ### 🤝 Let's Connect
-- 📧 Email: **rithikrathi416@gmail.com**
-- 💼 LinkedIn: [Rithik Kumar](https://www.linkedin.com/in/rithik12/)
--📄 Resume: [Click to View](https://github.com/rithikrathii/rithikrathii/blob/main/Resume_RithikKumar.pdf)
+
+- 📧 **Email:** rithikrathi416@gmail.com  
+- 💼 **LinkedIn:** [Rithik Kumar](https://www.linkedin.com/in/rithik12/)  
+- 📄 **Resume:** [Click to View](https://github.com/rithikrathii/rithikrathii/blob/main/Resume_RithikKumar.pdf)
 
 ---
 
