@@ -1,43 +1,53 @@
-<!-- 🌟 Banner -->
-<p align="center">
-  <img src="https://github.com/rithikrathii/rithikrathii/assets/your-banner-image.png" alt="Rithik's AI Banner" width="100%" />
-</p>
-
 # 👋 Hi, I'm Rithik Kumar
 
-🎓 BSc ISE @ Hochschule Rhein-Waal  
-💡 Data & AI Enthusiast | Building Smart AI Agents | Turning Data into Decisions
+🎓 BSc ISE Student @ Hochschule Rhein-Waal  
+🔍 Passionate about Data Science, AI Agents & Analytical Storytelling  
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently building **AI Agents** for automated decision-making using tools like **n8n**, **LangChain**, **Gemini API**, and **Python**
-- 📊 Skilled in **SQL**, **Power BI**, **Tableau**, and building **ETL pipelines** for data-driven insights
-- 🤝 Open to collaboration on **AI Workflows**, **Data Analytics Projects**, and **ML Integrations**
-- 🌱 Learning more about **Machine Learning**, **Information Security**, and **Distributed Systems**
-- 🧠 I love solving real-world problems by connecting **Data + Intelligence**
+📊 **Turning Data into Insight, and Insight into Action.**  
+I enjoy decoding complex problems using data, building smart workflows with AI Agents, and creating powerful visuals with BI tools.
 
 ---
 
-## 🛠️ Tools & Technologies I Use
+## 🚀 What I'm Up To
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,pandas,tensorflow,scikit-learn,docker,git,github" />
+- 🔭 Currently working on:  
+  **AI Agent Automation** using **n8n**, **LangChain**, **Gemini API**, and **Python**
+
+- 🌱 Exploring:  
+  **Machine Learning**, **Big Data**, **Distributed Systems**, and **Information Security**
+
+- 💻 Tools of my trade:  
+  Power BI • Tableau • SQL • Python • Pandas • Scikit-Learn • TensorFlow • LangChain
+
+- 👨‍💻 All of my projects:  
+  [📁 GitHub Portfolio](https://github.com/rithikrathii)
+
+- 📄 My Resume:  
+  [📎 View Resume](#) *(replace with actual link)*
+
+---
+
+## 💡 Fun Fact
+
+> I believe every messy dataset is just an unsolved mystery — and I love building AI agents to crack the case for me. 🕵️‍♂️🤖
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,pandas,tensorflow,docker,git,github,java" />
 </p>
 
 ---
 
-## 🎯 Projects & Highlights
+## 📫 Connect With Me
 
-- 🥇 **1st Prize – Omexom H2-Power Project**  
-  *Hydrogen replacing diesel generators for sustainable energy*
-
-- 📂 My AI Agent Project:  
-  [🔗 AI Automation with Smart Workflows](https://github.com/rithikrathii/AI-Automation-With-Smart-Workflows-)
-
-- ⚡ **Fun Fact:**  
-  *I treat raw data like a puzzle — the best part is watching an AI agent solve it for me.*
+- 📧 Email: rithikrathi416@gmail.com  
+- 💼 LinkedIn: [Rithik Kumar](https://linkedin.com/in/rithik12)  
+- 🧠 Projects: [AI Agent Workflow Repo](https://github.com/rithikrathii/AI-Automation-With-Smart-Workflows-)
 
 ---
 
@@ -50,15 +60,8 @@
 
 ---
 
-## 🧠 AI Vibes
+## 🧠 Just Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Vibes" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI Vibes"/>
 </p>
-
----
-
-## 📫 Reach Me
-
-📧 **rithikrathi416@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/rithik12)  
