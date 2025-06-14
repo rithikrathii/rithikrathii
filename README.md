@@ -1,56 +1,64 @@
+<p align="center">
+  <img src="https://i.imgur.com/dZ6XWKn.png" alt="Rithik Kumar — AI & Data" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rithik Kumar</h1>
-<h3 align="center">🎓 BSc ISE @ Hochschule Rhein-Waal | Passionate About Data Analytics, ETL Pipelines & AI Solutions</h3>
+<h3 align="center">🎓 BSc ISE @ Hochschule Rhein-Waal | Turning Data into AI-Powered Decisions 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data Science Gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Data Science Animation" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on [**AI AGENTS**](https://github.com/rithikrathii/AI-Automation-With-Smart-Workflows-)  
-  → Designing smart, goal-driven agents that automate business logic using tools like **n8n**, **LangChain**, **Gemini API**, and **Python**.
+### 🔍 About Me
 
-- 🌱 I’m currently learning:  
-  → **Machine Learning**, **Information Security**, **Distributed Systems**, and how to build **autonomous AI workflows**.
+- 🔭 Currently building [**AI AGENTS**](https://github.com/rithikrathii/AI-Automation-With-Smart-Workflows-)  
+  → Automating workflows using **n8n**, **LangChain**, **Gemini API**, and **Python-based logic**
 
-- 👯 Looking to collaborate on:  
-  → Projects involving **AI Agents**, **Data Pipelines**, **Dashboards**, or **Real-Time Analytics**.
+- 🌱 Learning more about:  
+  → **Machine Learning**, **Distributed Systems**, **Secure Automation**, and **Agentic Reasoning**
 
-- 📊 Skilled in:  
-  → **SQL**, **Python**, **Power BI**, **ETL**, **Data Modeling**, **REST APIs**, and **Cloud Integration**
+- 👯 Open to collaborations in:  
+  → **Data Analytics**, **AI Agents**, **Low-code Automation**, and **Decision Intelligence**
 
-- 🧠 Exploring how **Data + Intelligence** can solve real-world problems using:  
-  → Predictive models, conversational AI, automation workflows, and actionable dashboards.
+- 📊 Tools of choice:  
+  → **Python**, **SQL**, **Power BI**, **Pandas**, **Scikit-Learn**, **TensorFlow**, **Docker**, **React**
 
-- 🏆 Won **1st Performance Award** in  
-  → *"Omexom H2-Power — Hydrogen replacing Diesel Generators"*
+- 🧠 I turn data into decisions, dashboards into stories, and workflows into **autonomous agents**
 
-- 📫 Contact me at: **rithikrathi416@gmail.com**
+- 🏆 **1st Prize Winner** –  
+  🧪 *"Omexom H2-Power: Hydrogen replacing Diesel Generators"*
 
-- ⚡ **Fun fact:**  
-  *Sometimes I talk to AI more than people — and it still makes fewer assumptions about me 🤖📉*
+- 📫 Let’s connect: **rithikrathi416@gmail.com**
+
+- ⚡ **Fun Fact:**  
+  *Sometimes, AI gets me better than people do — and my SQL queries feel like therapy.* 🤖💬
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/rithik12/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
+  <a href="https://linkedin.com/in/rithik12/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tools & Tech I Use:</h3>
+### 🛠️ Languages & Tools I Use
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,powerbi,scikit-learn,tensorflow,react,js,docker,aws,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,powerbi,tensorflow,scikit-learn,docker,react,js,ts,git,github,vscode,aws" />
 </p>
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
+### 📈 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithikrathii&show_icons=true&theme=tokyonight" alt="Rithik's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rithikrathii&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rithikrathii&theme=tokyonight" alt="GitHub Streak" />
@@ -58,4 +66,7 @@
 
 ---
 
-<h3 align="center">🤖 Building the Future — One AI Agent at a Time</h3>
+### 🤖 AI Agent Builder | Data Whisperer | Curious Automator
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="200" />
+</p>
