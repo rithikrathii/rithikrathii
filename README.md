@@ -6,7 +6,7 @@
 <h3 align="center">🎓 BSc ISE @ Hochschule Rhein-Waal | Building AI Agents & Data-Driven Solutions</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,tableau,powerbi,docker,tensorflow,scikitlearn,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,nodejs,sql,numpy,pandas,scikitlearn,tensorflow,powerbi,tableau,docker,git,github" />
 </p>
 
 ---
