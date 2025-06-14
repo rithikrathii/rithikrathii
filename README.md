@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Rithik Kumar</h1>
 <h3 align="center">🎓 BSc ISE @ Hochschule Rhein-Waal | Building AI Agents & Data-Driven Solutions</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,nodejs,sql,numpy,pandas,scikitlearn,tensorflow,powerbi,tableau,docker,git,github" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,nodejs,sql,numpy,pandas,scikitlearn,tensorflow,docker,git,github&perline=12" />
+</div>
 ---
 
 ### 🚀 What I’m Working On
