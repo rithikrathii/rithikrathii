@@ -37,3 +37,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions...;Building+smart+AI+agents+with+n8n+%2B+LangChain...;Automating+insights+with+Power+BI+%26+Python...;Welcome+to+my+AI+World!+🤖" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rithikrathii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rithikrathii&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
