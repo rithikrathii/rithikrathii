@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Turning+data+into+decisions...;Building+smart+AI+agents+with+n8n+%2B+LangChain...;Automating+insights+with+Power+BI+%26+Python...;Welcome+to+my+Github!+🤖" alt="Typing SVG">
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="AI Thinking">
 </p>
 
@@ -37,10 +41,6 @@
 
 ---
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Turning+data+into+decisions...;Building+smart+AI+agents+with+n8n+%2B+LangChain...;Automating+insights+with+Power+BI+%26+Python...;Welcome+to+my+AI+World!+🤖" alt="Typing SVG">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rithikrathii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
